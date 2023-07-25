@@ -4,5 +4,4 @@ journal name: Advanced Intelligent Systems
 excerpt: 'Gangsheng Chen#, Biao Ma#*, Jin Zhang, Yi Chen, Hong Liu*'
 date: 2023-07-19
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300173'
-
 ---
