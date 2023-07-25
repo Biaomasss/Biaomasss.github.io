@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+title: "Assembly of Reusable DNA Blocks for Data Storage Using the Principle of Movable Type Printing"
+excerpt: 'Chengtao Xu, Biao Ma, Xing Dong, Lanjie Lei, Qing Hao, Chao Zhao* and Hong Liu*,ACS Appl. Mater. Inter., 2023, 15, 20, 24097–24108.'
+date: 2023-05-15
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://pubs.acs.org/doi/10.1021/acsami.3c01860'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
