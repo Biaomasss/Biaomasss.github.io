@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Cover Story"
+excerpt: "A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field 1<br/><img src='/images/adfm201970191-gra-0001-m.jpg'>"
 collection: portfolio
 ---
 
