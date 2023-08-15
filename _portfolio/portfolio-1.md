@@ -1,6 +1,6 @@
 ---
 title: "Cover Story"
-excerpt: "A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field 1<br/><img src='/images/adfm201970191-gra-0001-m.jpg'>"
+excerpt: "A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field <br/><img src='/images/adfm201970191-gra-0001-m.jpg'>"
 collection: portfolio
 ---
 
