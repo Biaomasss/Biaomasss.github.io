@@ -1,7 +1,8 @@
 ---
-title: "A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field"
-excerpt: '**Biao Ma**, Chengtao Xu, Junjie Chi, Jian Chen, Chao Zhao* and Hong Liu,*.**Adv. Funct. Mat.** 2019, 29, 1901370. '
-date: 2019-03-28
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901370'
+title: "Wearable Wireless Dual-Channel EEG System for Emotion Recognition Based on Machine Learning"
+excerpt: 'Yue Wang#, Wei Tian#, Jingyi Xu, Yingnan Tian, Chengtao Xu, Biao Ma, Qing Hao, Chao Zhao* and Hong Liu.**IEEE Sens. J.** 2023, doi: 10.1109/JSEN.2023.3303441. '
+date: 2023-08-01
+paperurl: 'https://ieeexplore.ieee.org/document/10215346'
 
 ---
+23
