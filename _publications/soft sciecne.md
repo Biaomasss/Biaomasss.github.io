@@ -1,7 +1,7 @@
 ---
-title: "A Versatile Approach for Direct Patterning of Liquid Metal Using Magnetic Field"
-excerpt: '**Biao Ma**, Chengtao Xu, Junjie Chi, Jian Chen, Chao Zhao* and Hong Liu,*.**Adv. Funct. Mat.** 2019, 29, 1901370. '
-date: 2019-03-28
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901370'
+title: "A highly stretchable and sintering-free liquid metal composite conductor enabled by ferrofluid"
+excerpt: 'Maoyu Peng#, **Biao Ma**#, Guoqiang Li, Yong Liu, Yang Zhang, Xing Ma*, Sheng Yan*.**Soft Science** 2023, Accepted. '
+date: 2023-08-17
+paperurl: 'https://softscijournal.com/accdata/6048'
 
 ---
