@@ -1,7 +1,7 @@
 ---
-title: "Mercury thermometer-inspired test strip for concentration cell-based potentiometric detection of salivary α-amylase"
-excerpt: 'Mi Sun, **Biao Ma**,* Shuai Yuan, Lifei Xin, Chao Zhao, Hong Liu*. **Anal. Chim. Acta**, 2022, 339770.'
-date: 2022-04-1
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0003267022003415?via%3Dihub'
+title: "Breakup-Free and Colorful Liquid Metal Thin Films via Electrochemical Oxidation"
+excerpt: 'Yi Chen#, **Biao Ma** #*, Gangsheng Chen, Gangsheng Chen, Jin Zhang, Dezhi Feng, Wei Tian, Taiming Zhang, Chao Zhao, Fei Rong, and Hong Liu*. **ACS Appl. Mater. Interfaces 2023**, 20233'
+date: 2023-10-1
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsami.3c11966'
 
 ---
