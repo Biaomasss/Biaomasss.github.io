@@ -1,7 +1,7 @@
 ---
 title: "Breakup-Free and Colorful Liquid Metal Thin Films via Electrochemical Oxidation"
-excerpt: 'Yi Chen#, **Biao Ma**#,* Gangsheng Chen, Gangsheng Chen, Jin Zhang, Dezhi Feng, Wei Tian, Taiming Zhang, Chao Zhao, Fei Rong, and Hong Liu,*. **ACS Appl. Mater. Interfaces**, 2023'
-date: 2023-10-1
-paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsami.3c11966'
+excerpt: 'Gangsheng Chen, Biao Ma*, Yi Chen, Yanjie Chen, Jin Zhang and Hong Liu*. **Adv. Sci.**, 2024, 2306129.'
+date: 2024-03-06
+paperurl: ' https://doi.org/10.1002/advs.202306129'
 
 ---
